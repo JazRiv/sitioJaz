@@ -1,0 +1,99 @@
+body{
+    margin: 0px;;
+    padding-top: 900px;
+    text-align: center;
+    margin-top: 400px;
+}
+.profile{
+   border-radius: 80px;
+    width: 300px;
+    height: 600px;
+    padding-top: 400px;
+    margin-top: 200px;
+}
+#bienvenida{
+    position: absolute;
+    bottom:0;
+    background: linear-gradient(#970d90 0%, #fffd77 100%);
+    display:table;
+    width:100%;
+    padding-top: 400px;
+    height:100%
+}
+h1{
+    font-size:40px;
+    font-family:Noto Serif;
+    font-weight:300;
+}
+#nombre1{
+    font-family:"Pacifico", cursive ;
+}
+#nombre{
+    font-size:50px;
+    font-family:"Cinzel Decorative", cursive;
+}
+h2{
+    font-size:30px;
+    font-family: "Libre Baskerville", bold;
+    font-weight:300;
+}
+
+#biografia{
+    font-family:"Pacifico", Bold;
+    padding: 60px;
+    font-size: 30px;
+}
+.line{
+    height:10px;
+    background-color: #611045;
+    width:100px;
+    margin:8px auto;
+}
+.parallax-inner{
+    display:table-cell;
+    vertical-align:middle;
+}
+
+.menu{
+    position:fixed;
+    background: #eccbec;
+    width: 100%;
+    margin-top: 0px;
+    
+    top:0px;
+    
+    z-index:10;
+    
+}
+.links{
+    display: inline;
+  
+    
+    padding-left:33px;
+    padding-right:25px;
+    
+    font-family:"Pacifico",bold;
+    font-size:20px;
+}
+.links:hover{
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+a{
+    text-decoration: none;
+}
+#writings a{
+    text-decoration: underline;
+    color: rgb(42, 12, 240);
+}
+#contact{
+    background:rgb(204, 213, 231);
+}
+
+#contact iframe{
+    width: 50%;
+}
+.contact_1 h3{
+    display:inline;
+}
