@@ -5,11 +5,12 @@ body{
     margin-top: 400px;
 }
 .profile{
-   border-radius: 80px;
-    width: 300px;
+   border-radius: 10%;
+   width: 20%;
+    /**width: 500px;
     height: 600px;
     padding-top: 400px;
-    margin-top: 200px;
+    margin-top: 200px;*/
 }
 #bienvenida{
     position: absolute;
@@ -87,13 +88,18 @@ a{
     text-decoration: underline;
     color: rgb(42, 12, 240);
 }
-#contact{
+#contacto{
     background:rgb(204, 213, 231);
 }
 
-#contact iframe{
-    width: 50%;
+#contacto iframe{
+    width: 100%;
 }
 .contact_1 h3{
     display:inline;
+}
+#jw{
+font-size: 25px;
+font-family:"Pacifico",bold;
+color:rgb(20, 207, 145)
 }
